@@ -81,7 +81,7 @@ const CONFIG = {
     enabled: true, // Music feature is enabled
     autoplay: false, // more reliable; browsers often block autoplay
     musicUrl:
-      "https://res.cloudinary.com/dak6exmgp/video/upload/v1770858039/Dave_-_Raindance_ft._Tems_v2ejvg.mp3", // Music streaming URL
+      "https://res.cloudinary.com/dak6exmgp/video/upload/v1770852006/ROS%C3%89_Bruno_Mars_-_APT._Lyrics_kgj9ql.mp3", // Music streaming URL
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
