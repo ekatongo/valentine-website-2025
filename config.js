@@ -51,7 +51,7 @@ const CONFIG = {
 
   // Messages that appear after they say "Yes!"
   celebration: {
-    title: "Yessss! Royalty said YES! 🥳🎉💃",
+    title: "Yessss! She said YES! 🥳🎉💃",
     message: "Now come get your gift, a big warm hug and a huge kiss, lets do this 💃💃💐😘🐥!",
     emojis: "💖💖💖" // These will bounce around
   },
