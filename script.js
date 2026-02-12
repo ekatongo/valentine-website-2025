@@ -181,7 +181,7 @@ function celebrate() {
     
     // Set celebration messages
      const titleEl = document.getElementById('valentineTitle');
-  if (titleEl) titleEl.textContent = "Thank you 🥹🫂";
+  if (titleEl) titleEl.textContent = "Thank you, Darling! 🥹🫂";
     
     document.getElementById('celebrationTitle').textContent = config.celebration.title;
     document.getElementById('celebrationMessage').textContent = config.celebration.message;
